@@ -1,5 +1,9 @@
 {
- "name": "The official News",
+  "short_name": "The official News",
+  "name": "The official News",
+  "theme_color": "#4A90E2",
+  "background_color": "#F7F8F9",
+  "display": "standalone",
  "icons": [
   {
    "src": "https://1.bp.blogspot.com/-FPjIgMkjn08/X9DocgXs5nI/AAAAAAAAdkA/Y-uVEGjS9K82MI-pP-xu0vxSzuCWeq6hACLcBGAsYHQ/s0/android-icon-36x36.png",
@@ -38,4 +42,5 @@
    "density": "4.0"
   }
  ]
+  "start_url": "/?utm_source=launcher"
 }
